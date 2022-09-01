@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kdi0618
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Rust.
