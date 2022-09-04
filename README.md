@@ -2,12 +2,12 @@
 
 <p>
   ウェブアプリケーションを作ってます。
-  <br>面白いもの、人々の役に立てるものが作りたいです。
+  <br>人々にとって使いやすいものを作りたいです。
 </p>
 
 <p>
   I develop web app.
-  <br>I want to make something interesting and useful to people.
+  <br>I want to make things that are easy for people to use.
 </p>
 
 ### 🛠 Skills
