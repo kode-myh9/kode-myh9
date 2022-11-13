@@ -3,11 +3,13 @@
 <p>
   ウェブアプリケーションを作ってます。
   <br>人々にとって使いやすいものを作りたいです。
+  <br>現在ベトナムに住んでおり、海外のエンジニアと協力してよりよいWebサービスを開発していきたいです。
 </p>
 
 <p>
-  I develop web app.
+  I am a Web Developper.
   <br>I want to make things that are easy for people to use.
+  <br>I live in VietNam🇻🇳, so I wannna build good dev-team and good web servece.
 </p>
 
 ### 🛠 Skills
