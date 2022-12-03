@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  I am a Web Developper.
+  I am a Web Developer.
   <br>I want to make things that are easy for people to use.
-  <br>I live in VietNam🇻🇳, so I wannna build good dev-team and good web servece.
+  <br>I live in VietNam🇻🇳, so I wanna build good dev-team and good web service.
 </p>
 
 ### 🛠 Skills
