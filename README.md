@@ -3,13 +3,11 @@
 <p>
   ウェブアプリケーションを作ってます。
   <br>人々にとって使いやすいものを作りたいです。
-  <br>現在ベトナムに住んでおり、海外のエンジニアと協力してよりよいWebサービスを開発していきます。
 </p>
 
 <p>
   I'm a Web Developer, my professional is front-end thesedays.
   <br>I'd like to focus accessibility and develop experience design (ex. folder, css, source code... etc).
-  <br>I live in VietNam🇻🇳, I'm going to create good dev-team and good web service.
 </p>
 
 ### 🛠 Skills
