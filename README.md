@@ -1,13 +1,13 @@
 ### 👋 Hi, I’m Kodai!
 
 <p>
-  ウェブアプリケーションを作ってます。
-  <br>人々にとって使いやすいものを作りたいです。
+  ウェブアプリケーションを作ったり、開発ディレクションをしたりしてます。
+  <br>ユーザーにとって最適なシステムアーキテクチャを提供したいです。
 </p>
 
 <p>
-  I'm a Web Developer, my professional is front-end thesedays.
-  <br>I'd like to focus accessibility and develop experience design (ex. folder, css, source code... etc).
+  I build web applications and direct development project.
+　　　　<br>I would like to provide the best system architecture for users.
 </p>
 
 ### 🛠 Skills
