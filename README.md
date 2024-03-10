@@ -7,7 +7,7 @@
 
 <p>
   I build web applications and direct development project.
-　　　　<br>I would like to provide the best system architecture for users.
+　　　　<br>I would like to provide the best system architecture.
 </p>
 
 ### 🛠 Skills
